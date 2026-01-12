@@ -53,7 +53,7 @@ export default function App() {
     {
       role: "Full-Stack Developer",
       company: "Krikia",
-      period: "May 2024 - January 2025",
+      period: "May 2024 - October 2025",
       description: "Real Estate Marketplace",
       highlights: [
         "Engineered property inspection booking system",
