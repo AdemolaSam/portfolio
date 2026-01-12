@@ -91,6 +91,7 @@ export default function App() {
       details:
         "Agro-commodities marketplace with vendor storefronts, custom domains, and integrated payment systems.",
       tech: ["Node.js", "TypeScript", "MySQL", "Redis", "Cloudflare R2"],
+      link: "https://farman.ng",
       featured: true,
     },
     {
@@ -99,6 +100,7 @@ export default function App() {
       details:
         "Property platform with booking system, push notifications, and payment gateway integration.",
       tech: ["NestJS", "PostgreSQL", "React", "Next.js", "Cloudinary"],
+      link: "https://krikia.ng",
       featured: true,
     },
     {
